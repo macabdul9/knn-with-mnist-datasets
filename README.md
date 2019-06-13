@@ -8,7 +8,7 @@ running knn on mnist dataset for numeric digit recognition
   i. pandas  <br />
   ii. numpy  <br />
   iii. matplotlib
-  iv. opencv (subject to Note below)
+  iv. opencv (subject to Note see below)
 
 # running the program
 
