@@ -8,6 +8,7 @@ running knn on mnist dataset for numeric digit recognition
   i. pandas  <br />
   ii. numpy  <br />
   iii. matplotlib
+  iv. opencv (subject to Note below)
 
 # running the program
 
@@ -15,3 +16,6 @@ running knn on mnist dataset for numeric digit recognition
 2. "test" is list which has 1D array (784x1) containing test image data
 3. pass this test data ie. test[x] to KNN along with training and label data (which is X and Y respectively in this case)
 4. Now you will get the prediction
+
+# Note 
+In case if you want to perform this on your own test data which I've done in this notebook, you need opencv to read the image input, but let me make you one thing very clear prediction on custom input will be horrible becuase MNIST dataset is very clear KNN is a naive algorithm which does not do much for accuracy.  
