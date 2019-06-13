@@ -5,8 +5,8 @@ running knn on mnist dataset for numeric digit recognition
 1. Jupyter Notebook
 2. Python 3 or higher version
 3. Python Libraries
-  i. pandas
-  ii. numpy
+  i. pandas\n
+  ii. numpy\n
   iii. matplotlib
 
 # running the program
